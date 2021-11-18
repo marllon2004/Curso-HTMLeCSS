@@ -1,0 +1,1 @@
+Este repositório contém os meus arquivos/exercícios feitos durante as aulas do curso de HTML do Curso em Vídeo.
